@@ -6,8 +6,6 @@ Felipe Araújo Costa
 RA-12121137
 
 
- ![Uploading BD ZE LOGICA .png…]()
-
-
+![BD ZE LOGICA ](https://github.com/Felipeac8/Banco-de-Dados/assets/133305961/c70c9d91-e971-4a45-a2a4-2d49a03b0936)
 
 
